@@ -11,7 +11,6 @@
 "classname" "ammo_shells"
 }
 {
-"spawnflags" "1"
 "classname" "info_player_deathmatch"
 "origin" "-2336 -2596 42"
 "angle" "90"
@@ -33,7 +32,6 @@
 "targetname" "t368"
 "origin" "-128 -736 -160"
 "angle" "90"
-"spawnflags" "1"
 "classname" "info_player_deathmatch"
 }
 {
@@ -170,8 +168,8 @@
 "model" "*7"
 }
 {
-"classname" "item_haste"
-"origin" "-616 -128 -111"
+"classname" "item_quad"
+"origin" "-1600 -960 -112"
 }
 {
 "classname" "trigger_teleport"
@@ -188,7 +186,6 @@
 }
 {
 "targetname" "t369"
-"spawnflags" "4"
 "classname" "info_player_deathmatch"
 "angle" "270"
 "origin" "320 -1120 88"
@@ -203,7 +200,6 @@
 }
 {
 "targetname" "t370"
-"spawnflags" "4"
 "angle" "0"
 "classname" "info_player_deathmatch"
 "origin" "-1776 -1628 -104"
@@ -268,47 +264,40 @@
 }
 {
 "targetname" "t369"
-"spawnflags" "4"
 "origin" "984 736 192"
 "angle" "225"
 "classname" "info_player_deathmatch"
 }
 {
-"spawnflags" "4"
 "origin" "-1760 -208 -104"
 "angle" "360"
 "classname" "info_player_deathmatch"
 }
 {
 "targetname" "t368"
-"spawnflags" "1"
 "origin" "-736 -768 24"
 "angle" "225"
 "classname" "info_player_deathmatch"
 }
 {
 "targetname" "t368"
-"spawnflags" "1"
 "origin" "-1368 -1946 -88"
 "angle" "360"
 "classname" "info_player_deathmatch"
 }
 {
-"spawnflags" "4"
 "classname" "info_player_deathmatch"
 "angle" "135"
 "origin" "1032 -640 88"
 }
 {
 "targetname" "t370"
-"spawnflags" "4"
 "angle" "135"
 "origin" "-552 -664 -40"
 "classname" "info_player_deathmatch"
 }
 {
 "targetname" "t370"
-"spawnflags" "4"
 "classname" "info_player_deathmatch"
 "origin" "-560 400 -52"
 "angle" "225"
@@ -386,7 +375,7 @@
 "roll" "0"
 "classname" "misc_portal_camera"
 "angle" "360"
-"origin" "-2552 -2224 64"
+"origin" "-2696 -2224 64"
 "targetname" "t33"
 }
 {
@@ -436,7 +425,7 @@
 }
 {
 "origin" "-2336 -2224 20"
-"classname" "item_quad"
+"classname" "item_haste"
 "target" "t40"
 }
 {
@@ -538,7 +527,6 @@
 "origin" "168 -1632 88"
 "angle" "270"
 "classname" "info_player_deathmatch"
-"spawnflags" "4"
 }
 {
 "noise" "sound/world/drones/amb1.wav"
@@ -1063,7 +1051,6 @@
 "origin" "768 -1770 88"
 "angle" "90"
 "classname" "info_player_deathmatch"
-"spawnflags" "1"
 }
 {
 "target" "t346"
